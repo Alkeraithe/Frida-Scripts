@@ -3,10 +3,9 @@
 Collection of Frida scripts
 
 
-### EncryptedSharedPreferences
+### EncryptedSharedPreferences.js
 Check values saved into EncryptedSharedPreferences before encryption
 
-### MonitorSQL
-
+### MonitorSQL.js
 Print all SQL queries executed from android sqlite, and sqlcipher
 
